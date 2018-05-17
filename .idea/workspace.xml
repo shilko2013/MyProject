@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d6de6a9-836e-4f07-8722-726b9a331038" name="Default" comment="">
+    <list default="true" id="1d6de6a9-836e-4f07-8722-726b9a331038" name="Default" comment="Курсач по БД, заполнение расы">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyProject/com/shilko/ru/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyProject/com/shilko/ru/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/shilko/ru/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shilko/ru/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ОСОБЕННОСТИ_РАС.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/РАСЫ.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/УМЕНИЯ_РАС.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +22,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/shilko/ru/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+            <state relative-caret-position="87">
+              <caret line="40" column="46" selection-start-line="40" selection-start-column="46" selection-end-line="40" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,8 +69,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-12" />
-    <option name="width" value="981" />
+    <option name="x" value="954" />
+    <option name="width" value="975" />
     <option name="height" value="1092" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -201,7 +205,7 @@
       <workItem from="1522531467923" duration="1370000" />
       <workItem from="1522959120984" duration="23000" />
       <workItem from="1523643074390" duration="3425000" />
-      <workItem from="1525531862608" duration="2022000" />
+      <workItem from="1525531862608" duration="16268000" />
     </task>
     <task id="LOCAL-00001" summary="Курсач по БД, заполнение особенности_рас">
       <created>1525534264656</created>
@@ -210,11 +214,25 @@
       <option name="project" value="LOCAL" />
       <updated>1525534264656</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Курсач по БД, заполнение особенности_рас2">
+      <created>1525534523527</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1525534523527</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Курсач по БД, заполнение расы">
+      <created>1525535553718</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1525535553718</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111346000" />
+    <option name="totallyTimeSpent" value="125592000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
@@ -230,7 +248,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3375796" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3605442" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -258,18 +276,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Курсач по БД, заполнение особенности_рас" />
-    <option name="LAST_COMMIT_MESSAGE" value="Курсач по БД, заполнение особенности_рас" />
+    <MESSAGE value="Курсач по БД, заполнение особенности_рас2" />
+    <MESSAGE value="Курсач по БД, заполнение расы" />
+    <option name="LAST_COMMIT_MESSAGE" value="Курсач по БД, заполнение расы" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/shilko/ru/Main.java</url>
-          <line>34</line>
-          <properties />
-          <option name="timeStamp" value="76" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="77" />
     </breakpoint-manager>
   </component>
@@ -407,8 +419,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/shilko/ru/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+        <state relative-caret-position="87">
+          <caret line="40" column="46" selection-start-line="40" selection-start-column="46" selection-end-line="40" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
